@@ -1,12 +1,11 @@
 <!--
-  Ceaseless Studio — GitHub profile README
-  1. Create a public repo named exactly like your GitHub username.
-  2. Put this file in its root as README.md and the banner at assets/banner.png.
-  3. Keep only the stack badges you actually use.
+  Cease Neverly - personal GitHub profile README
+  This repository is named after the account, so GitHub shows this file as the profile page.
+  Assets: assets/banner.png (banner) and assets/ledger.png (the ledger card).
 -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="Ceaseless Studio — behind the painted grin" width="100%">
+  <img src="assets/banner.png" alt="Cease Neverly - behind the painted grin" width="100%">
 </p>
 
 <h3 align="center">Behind the painted grin: Discord bots, automation & visual novel localization.</h3>
@@ -27,7 +26,8 @@
 - 🃏 I build **Discord bots** and the little tools that keep a server running while nobody's watching.
 - 🖋 I translate and proofread **visual novels into Russian**, currently proofreading *The Last Embrace* (NoX Productions).
 - 🎪 I run the backstage of **Discord communities**: roles, permissions, supporter tiers, the whole circus.
-- 🕯 Everything I make lives under one name: **[Ceaseless Studio](https://github.com/Ceaseless-Studio)** - every bot, every repo, the whole show.
+- 🧰 I keep a workbench of my own tools, like **[archicad-mcp](https://github.com/CeaseNeverly/archicad-mcp)** - an MCP server that drives Archicad through the Tapir add-on.
+- 🕯 The studio work lives under one name: **[Ceaseless Studio](https://github.com/Ceaseless-Studio)** - every bot, every repo, the whole show.
 
 ### ◆ The act
 
@@ -36,7 +36,9 @@
 | 🖋 **[The Last Embrace](https://store.steampowered.com/app/4437270/The_Last_Embrace_Book_One/)** | Proofreader (RU) | Russian proofreading for the visual novel by NoX Productions |
 | 🎪 **[Driven By Desire](https://kloppstyle.itch.io/driven-by-desire)** | Discord backstage manager | Running the backstage of the visual novel's Discord server |
 | 🃏 **[Ceaseless Studio](https://github.com/Ceaseless-Studio)** | Bot · Creator & owner | Built and run entirely by me. The backstage of a modeling agency: contracts, roles and reports, so the runway show never stops |
-| 🕯 **Maria** | Bot · Creator & owner | Cease's personal assistant on the Driven By Desire Discord server |
+| 🕯 **Maria** | Bot · Creator & owner | My personal assistant on the Driven By Desire Discord server |
+
+<p align="center"><sub>◆ now: Ceaseless Bot and Maria on one VPS · the studio site live · the ledger open for the next act ◆</sub></p>
 
 ### ◆ Tools of the trade
 
