@@ -26,7 +26,6 @@
 - 🃏 I build **Discord bots** and the little tools that keep a server running while nobody's watching.
 - 🖋 I translate and proofread **visual novels into Russian**, currently proofreading *The Last Embrace* (NoX Productions).
 - 🎪 I run the backstage of **Discord communities**: roles, permissions, supporter tiers, the whole circus.
-- 🧰 I keep a workbench of my own tools, like **[archicad-mcp](https://github.com/CeaseNeverly/archicad-mcp)** - an MCP server that drives Archicad through the Tapir add-on.
 - 🕯 The studio work lives under one name: **[Ceaseless Studio](https://github.com/Ceaseless-Studio)** - every bot, every repo, the whole show.
 
 ### ◆ The act
@@ -39,6 +38,10 @@
 | 🕯 **Maria** | Bot · Creator & owner | My personal assistant on the Driven By Desire Discord server |
 
 <p align="center"><sub>◆ now: Ceaseless Bot and Maria on one VPS · the studio site live · the ledger open for the next act ◆</sub></p>
+
+### ◆ Open source
+
+On my own bench, outside the studio: **[archicad-mcp](https://github.com/CeaseNeverly/archicad-mcp)** - an MCP server that drives Archicad through the Tapir 2.0 add-on. Twenty curated tools, 789 commands behind a search hatch, and a dry run before anything destructive.
 
 ### ◆ Tools of the trade
 
@@ -55,7 +58,7 @@
 ### ◆ The ledger
 
 <p align="center">
-  <img width="900" src="assets/ledger.png" alt="The ledger: 02 bots in production, 01 novel in proofreading, 04 acts on the bill">
+  <img width="900" src="assets/ledger.png" alt="The ledger: 03 bots in production, 01 novel in proofreading, 04 acts on the bill">
 </p>
 
 ### ◆ Tongues I speak
